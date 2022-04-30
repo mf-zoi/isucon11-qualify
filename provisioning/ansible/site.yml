@@ -16,7 +16,7 @@
   become: true
   roles:
     - langs.go
-#    - langs.nodejs
+    - langs.nodejs
 #    - langs.perl
 #    - langs.php
 #    - langs.python
@@ -42,7 +42,7 @@
   become: true
   roles:
     - langs.go
-#    - langs.nodejs
+    - langs.nodejs
 #    - langs.perl
 #    - langs.php
 #    - langs.python
