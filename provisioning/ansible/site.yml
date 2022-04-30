@@ -14,11 +14,11 @@
   tags: [contestant]
   roles:
     - langs.go
-    - langs.nodejs
-    - langs.perl
-    - langs.php
-    - langs.python
-    - langs.ruby
+#    - langs.nodejs
+#    - langs.perl
+#    - langs.php
+#    - langs.python
+#    - langs.ruby
     - langs.rust
     - contestant
 
@@ -47,11 +47,11 @@
   hosts: [standalone]
   roles:
     - langs.go
-    - langs.nodejs
-    - langs.perl
-    - langs.php
-    - langs.python
-    - langs.ruby
+#    - langs.nodejs
+#    - langs.perl
+#    - langs.php
+#    - langs.python
+#    - langs.ruby
     - langs.rust
     - contestant
     - bench
